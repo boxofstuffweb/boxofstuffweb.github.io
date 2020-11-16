@@ -1,29 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to BoxOfStuff.com!"
 date:   2020-11-16 09:56:44 -0600
-categories: jekyll update
+categories: domain name
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Do you have a box? Does it have stuff in it? Does it need a domain name? You've come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+This domain is available for lease, inquire below for details.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Loot Boxes
 
-Jekyll also offers powerful support for code snippets:
+Video games sell loot boxes. People really love them! (not really). The video game industry has turned video games into continuous money making machines by selling credits that can be used to buy loot boxes, and then ultimately turning them into lottery like devices to obtain addons, skins, weapons and such for additional game play options.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+C# lothing Boxes
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Not sure what type of stitch you need to get your clothing fix? There are plenty of third parties now that will sell you services and clothing, so you never have to leave your house! Unless you want other people to see this clothing you buy. You can find stylists online that will send you items that you can try on, and only pay for the items that you choose to keep.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+# Food Boxes
+
+Not sure what you want for dinner tonight? Not sure what ingredients you need to make your next meal? There are food boxes for that! Many of these boxes come with all the ingredients, and instructions for preparing a meal.
