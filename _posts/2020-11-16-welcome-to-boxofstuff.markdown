@@ -13,7 +13,7 @@ This domain is available for lease, inquire below for details.
 
 Video games sell loot boxes. People really love them! (not really). The video game industry has turned video games into continuous money making machines by selling credits that can be used to buy loot boxes, and then ultimately turning them into lottery like devices to obtain addons, skins, weapons and such for additional game play options.
 
-C# lothing Boxes
+# Clothing Boxes
 
 Not sure what type of stitch you need to get your clothing fix? There are plenty of third parties now that will sell you services and clothing, so you never have to leave your house! Unless you want other people to see this clothing you buy. You can find stylists online that will send you items that you can try on, and only pay for the items that you choose to keep.
 
