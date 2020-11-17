@@ -23,7 +23,7 @@ jobs:
           ruby-version: 2.7 # can change this to 2.7 or whatever version you prefer
 
       - name: 🔨 install dependencies & build site
-        uses: limjh16/jekyll-action-ts@v2
+        uses: limjh16/jekyll-action-ts@v2.4.0
         with:
           enable_cache: true
           ### Enables caching. Similar to https://github.com/actions/cache.
