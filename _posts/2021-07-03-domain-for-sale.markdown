@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BoxOfStuff.com domain name for sale"
+title:  "BoxOfStuff.com domain name for sale / lease"
 date:   2021-07-03 19:56:44 -0600
 categories: 
 ---
