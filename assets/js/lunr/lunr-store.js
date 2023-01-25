@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/domain-for-sale/",
         "teaser": null
+      },{
+        "title": "Leasing a domain name",
+        "excerpt":"A domain name is a unique address that allows users to access a website on the internet. Leasing a domain name is a great option for businesses and individuals who want to use a specific domain name for a certain period of time without committing to a long-term purchase. When...","categories": [],
+        "tags": [],
+        "url": "/leasing-a-domain-name/",
+        "teaser": null
       }]
