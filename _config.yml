@@ -2,7 +2,7 @@
 name: "BoxOfStuff.com"
 title: "BoxOfStuff.com - Loot boxes for everyone"
 description: "Do you have a box? Does it have stuff in it? Does it need a domain name? You've come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable."
-logo: 
+# logo: 
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
 google_analytics: 'UA-69145-33'
