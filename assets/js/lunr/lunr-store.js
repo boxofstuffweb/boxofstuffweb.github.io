@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/leasing-a-domain-name/",
         "teaser": null
+      },{
+        "title": "Leasing the Domain Name BoxOfStuff.com: A Smart Business Move",
+        "excerpt":"In the digital age, having a strong online presence is crucial for businesses. A domain name is the first step in establishing a professional and credible image for your brand on the internet. Choosing the right domain name can be a difficult and time-consuming task, but leasing a domain name...","categories": [],
+        "tags": [],
+        "url": "/lease-boxofstuff.com-a-smart-decision/",
+        "teaser": null
       }]
