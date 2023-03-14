@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://www.boxofstuff.com/about",
     "title": "About boxofstuff.com",
-    "body": " boxofstuff. com is a sample blog template from Chris Hammond With the open source repository available on GitHub, you can easily fork the repository and create your own blog/website using GitHub Pages for hosting. Learn how to use boxofstuff "
+    "body": "This domain name is for lease! Interested? Contact me. "
     }, {
     "id": 2,
     "url": "https://www.boxofstuff.com/categories",
