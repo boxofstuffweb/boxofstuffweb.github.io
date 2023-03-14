@@ -1,27 +1,30 @@
-# Site
+# Site Settings
+# You can change the settings below in order to customize your website.
 name: "BoxOfStuff.com"
 title: "BoxOfStuff.com - Loot boxes for everyone"
 description: "Do you have a box? Does it have stuff in it? Does it need a domain name? You've come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/Logo.png'
+favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics: 'G-XLJSRM88VC'
-disqus: 
+google_analytics: 'G-XLJSRM88VC' # configured for Google Analytics 4 MEASUREMENT ID
+# disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
+url: 'https://www.boxofstuff.com'
+
+templatemessage: '<a target="_blank" href="https://www.chrishammond.com/">Forked from Chris Hammond</a>'
 
 # Authors
 authors:
-  christoc:
-    name: christoc
-    display_name: christoc
-    gravatar: 
+  chris:
+    name: Chris Hammond
+    display_name: Chris Hammond
+    gravatar: bff097b7cc348bebce39ee1c7694d125
     email: christoc@christoc.com
-    web: https://christoc.com
-    twitter: 
-    description: "I am christoc" 
-
+    web: https://www.chrishammond.com
+    twitter: https://twitter.com/christoc
+    description: "Founder of boxofstuff.com. Read more at ChrisHammond.com" 
 
 # Plugins
 plugins:
@@ -57,7 +60,7 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3356074518164779"
+adsense-data-ad-client: ""
 adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
@@ -80,3 +83,5 @@ picture:
       source_default:
         width: "300"
 
+# exclude:
+#  - /assets/images/*
