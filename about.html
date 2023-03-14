@@ -1,22 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-XLJSRM88VC"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+
+			gtag("config", "G-XLJSRM88VC");
+		</script>
+
 		<meta charset="utf-8" />
 		<meta
 			name="viewport"
 			content="width=device-width, initial-scale=1, shrink-to-fit=no"
 		/>
 
-		<link rel="icon" href="/assets/images/logo.png" />
+		<link rel="icon" href="/assets/favicon.ico" />
 
-		<title>About BoxOfStuff.com | BoxOfStuff.com</title>
+		<title>About boxofstuff.com | BoxOfStuff.com</title>
 
 		<!-- Begin Jekyll SEO tag v2.8.0 -->
 		<title>
-			About BoxOfStuff.com | BoxOfStuff.com - Loot boxes for everyone
+			About boxofstuff.com | BoxOfStuff.com - Loot boxes for everyone
 		</title>
 		<meta name="generator" content="Jekyll v4.3.2" />
-		<meta property="og:title" content="About BoxOfStuff.com" />
+		<meta property="og:title" content="About boxofstuff.com" />
 		<meta property="og:locale" content="en_US" />
 		<meta
 			name="description"
@@ -26,32 +41,37 @@
 			property="og:description"
 			content="Do you have a box? Does it have stuff in it? Does it need a domain name? You’ve come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable."
 		/>
+		<link rel="canonical" href="https://www.boxofstuff.com/about" />
+		<meta property="og:url" content="https://www.boxofstuff.com/about" />
 		<meta
 			property="og:site_name"
 			content="BoxOfStuff.com - Loot boxes for everyone"
 		/>
 		<meta property="og:type" content="website" />
 		<meta name="twitter:card" content="summary" />
-		<meta property="twitter:title" content="About BoxOfStuff.com" />
+		<meta property="twitter:title" content="About boxofstuff.com" />
 		<script type="application/ld+json">
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
 				"description": "Do you have a box? Does it have stuff in it? Does it need a domain name? You’ve come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable.",
-				"headline": "About BoxOfStuff.com",
+				"headline": "About boxofstuff.com",
 				"publisher": {
 					"@type": "Organization",
-					"logo": { "@type": "ImageObject", "url": "/assets/images/logo.png" }
+					"logo": {
+						"@type": "ImageObject",
+						"url": "https://www.boxofstuff.com/assets/Logo.png"
+					}
 				},
-				"url": "/about"
+				"url": "https://www.boxofstuff.com/about"
 			}
 		</script>
 		<!-- End Jekyll SEO tag -->
 
 		<link
 			rel="stylesheet"
-			href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-			integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+			integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
 			crossorigin="anonymous"
 		/>
 
@@ -61,31 +81,6 @@
 
 		<script src="/assets/js/jquery.min.js"></script>
 	</head>
-
-	<!-- change your GA id in _config.yml -->
-	<script>
-		(function (i, s, o, g, r, a, m) {
-			i["GoogleAnalyticsObject"] = r;
-			(i[r] =
-				i[r] ||
-				function () {
-					(i[r].q = i[r].q || []).push(arguments);
-				}),
-				(i[r].l = 1 * new Date());
-			(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-			a.async = 1;
-			a.src = g;
-			m.parentNode.insertBefore(a, m);
-		})(
-			window,
-			document,
-			"script",
-			"//www.google-analytics.com/analytics.js",
-			"ga"
-		);
-		ga("create", "G-XLJSRM88VC", "auto");
-		ga("send", "pageview");
-	</script>
 
 	<body class="layout-page">
 		<!-- defer loading of font and font awesome -->
@@ -110,7 +105,7 @@
 			<div class="container pr-0">
 				<!-- Begin Logo -->
 				<a class="navbar-brand" href="/">
-					<img src="/assets/images/logo.png" alt="BoxOfStuff.com" />
+					<img src="/assets/Logo.png" alt="BoxOfStuff.com" />
 				</a>
 				<!-- End Logo -->
 
@@ -137,6 +132,16 @@
 						<li class="nav-item">
 							<a class="nav-link" href="/about">About</a>
 						</li>
+
+						<li class="nav-item">
+							<a
+								class="nav-link"
+								href="https://github.com/chrishammond/boxofstuff.github.io"
+								target="_blank"
+								>GitHub</a
+							>
+						</li>
+
 						<script src="/assets/js/lunr.js"></script>
 
 						<style>
@@ -192,27 +197,67 @@
 			<div class="container">
 				<!-- Site Title
 ================================================== -->
-				<div class="mainheading">
-					<h1 class="sitetitle">BoxOfStuff.com</h1>
-					<p class="lead">
-						Do you have a box? Does it have stuff in it? Does it need a domain
-						name? You've come to the right place. But in order to unlock the
-						power of the box, you must make an offer that is reasonable.
-					</p>
-				</div>
+				<!--
+<div class="mainheading">
+    <h1 class="sitetitle">BoxOfStuff.com</h1>
+    <p class="lead">
+        Do you have a box? Does it have stuff in it? Does it need a domain name? You've come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable.
+    </p>
+</div>
+-->
 
 				<!-- Content
 ================================================== -->
 				<div class="main-content">
-					<section>
-						<div class="section-title">
-							<h2><span>About BoxOfStuff.com</span></h2>
-						</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-2 flex-first flex-md-unordered"></div>
+							<div class="col-md-8 flex-first flex-md-unordered">
+								<div class="mainheading">
+									<div class="section-title">
+										<h2><span>About boxofstuff.com</span></h2>
+									</div>
+								</div>
+								<div class="article-post">
+									<section>
+										<p>
+											<img
+												src="/assets/images_out/About-1-800-8be82741f.jpg"
+												srcset="
+													/assets/images_out/About-1-400-8be82741f.jpg   400w,
+													/assets/images_out/About-1-600-8be82741f.jpg   600w,
+													/assets/images_out/About-1-800-8be82741f.jpg   800w,
+													/assets/images_out/About-1-1000-8be82741f.jpg 1000w
+												"
+											/>
+										</p>
 
-						<div class="article-post">
-							<p>What’s in the box?</p>
+										<p>
+											boxofstuff.com is a sample blog template from
+											<a href="https://www.chrishammond.com/">Chris Hammond</a>
+										</p>
+
+										<p>
+											With the open source repository
+											<a
+												href="https://github.com/chrishammond/boxofstuff.github.io"
+												>available on GitHub</a
+											>, you can easily fork the repository and create your own
+											blog/website using GitHub Pages for hosting.
+										</p>
+
+										<p>
+											<a
+												href="http://www.boxofstuff.com/easy-installation-instructions-for-jekyll"
+												>Learn how to use boxofstuff</a
+											>
+										</p>
+									</section>
+								</div>
+							</div>
+							<div class="col-md-2 flex-first flex-md-unordered"></div>
 						</div>
-					</section>
+					</div>
 				</div>
 			</div>
 
@@ -225,7 +270,7 @@
 							class="d-md-flex align-items-center justify-content-center h-100"
 						>
 							<h2 class="d-md-block align-self-center py-1 font-weight-light">
-								Explore The Abyss <span class="d-none d-md-inline">→</span>
+								Explore <span class="d-none d-md-inline">→</span>
 							</h2>
 						</div>
 					</div>
@@ -242,7 +287,9 @@
 							Copyright © 2023 BoxOfStuff.com
 						</div>
 						<div class="col-md-6 col-sm-6 text-center text-lg-right">
-							Site by Trashy
+							<a target="_blank" href="https://www.chrishammond.com/"
+								>Forked from Chris Hammond</a
+							>
 						</div>
 					</div>
 				</div>
@@ -262,8 +309,13 @@
 		></script>
 
 		<script
-			src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-			integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+			src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+			integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
 			crossorigin="anonymous"
 		></script>
 
