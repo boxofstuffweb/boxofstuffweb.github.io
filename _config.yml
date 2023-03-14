@@ -5,7 +5,7 @@ description: "Do you have a box? Does it have stuff in it? Does it need a domain
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-google_analytics: 'UA-69145-19'
+google_analytics: 'G-XLJSRM88VC'
 disqus: 
 mailchimp-list: 
 include: ["_pages"]
