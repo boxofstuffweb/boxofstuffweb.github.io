@@ -13,7 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 url: 'https://www.boxofstuff.com'
 
-templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>'s Jekyll Template Project'
+templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>s Jekyll Template Project'
 
 # Authors
 authors:
