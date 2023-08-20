@@ -35,6 +35,18 @@ jobs:
           wget http://archive.ubuntu.com/ubuntu/pool/main/libw/libwebp/libwebpdemux2_0.6.1-2ubuntu0.20.04.2_amd64.deb
           sudo apt install ./libwebpdemux2_0.6.1-2ubuntu0.20.04.2_amd64.deb 
 
+  # 8-4-2023 FIX FOR BAD PATHS
+      - name: Install libpoppler97_0.86.1-0ubuntu1.3_amd64.deb 
+        run: |
+          wget http://azure.archive.ubuntu.com/ubuntu/pool/main/p/poppler/libpoppler97_0.86.1-0ubuntu1.3_amd64.deb
+          sudo apt install ./libpoppler97_0.86.1-0ubuntu1.3_amd64.deb
+
+# 8-4-2023 FIX FOR BAD PATHS
+      - name: Install libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
+        run: |
+          wget http://azure.archive.ubuntu.com/ubuntu/pool/main/p/poppler/libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
+          sudo apt install ./libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
+
       - name: Install libvips42
         run: |
           wget http://archive.ubuntu.com/ubuntu/pool/universe/v/vips/libvips42_8.9.1-2_amd64.deb
