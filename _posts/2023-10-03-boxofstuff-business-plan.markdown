@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BoxOfStuff.com Business Plan"
-date:   2023-10-03 08:56:44 -0600
+date:   2023-10-03 07:56:44 -0600
 categories: 
 ---
 
