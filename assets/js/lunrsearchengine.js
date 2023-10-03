@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://www.boxofstuff.com/about",
     "title": "About boxofstuff.com",
-    "body": "This domain name is for lease! Interested? Contact me. "
+    "body": "BoxOfStuff. com would make a great new name for your online business! This domain name is for sale or for lease! Interested? Contact me. "
     }, {
     "id": 2,
     "url": "https://www.boxofstuff.com/categories",
