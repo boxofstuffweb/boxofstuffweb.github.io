@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Lease a Domain Name? The Strategic Advantages of Leasing a Domain Name: A Comparison with Buying"
-date:   2023-12-27 11:56:44 -0500
+date:   2023-12-27 10:30:44 -0500
 categories: 
 ---
 ## Introduction
