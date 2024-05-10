@@ -4,7 +4,7 @@ name: "BoxOfStuff.com"
 title: "BoxOfStuff.com - Domain Name For Lease"
 description: "Do you have a box? Does it have stuff in it? Does it need a domain name? You've come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable."
 logo: 'assets/Logo.png'
-favicon: 'assets/favicon.ico'
+favicon: '/assets/favicon.ico'
 baseurl: ""
 google_analytics: 'G-XLJSRM88VC' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
@@ -24,7 +24,7 @@ authors:
     email: christoc@christoc.com
     web: https://www.chrishammond.com
     twitter: https://twitter.com/christoc
-    description: "Founder of boxofstuff.com. Read more at ChrisHammond.com" 
+    description: "Founder of boxofstuff.com. Read more about <a href=\"https://www.chrishammond.com\">Chris Hammond</a>" 
 
 # Plugins
 plugins:
@@ -82,6 +82,15 @@ picture:
         height: "300"
       source_default:
         width: "300"
+
+
+defaults:
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "chris"
+
 
 # exclude:
 #  - /assets/images/*

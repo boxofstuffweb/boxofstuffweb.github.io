@@ -5,9 +5,9 @@
     <description>Do you have a box? Does it have stuff in it? Does it need a domain name? You&apos;ve come to the right place. But in order to unlock the power of the box, you must make an offer that is reasonable.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Dec 2023 10:43:31 -0600</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2023 10:43:31 -0600</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Fri, 10 May 2024 10:19:55 -0500</pubDate>
+    <lastBuildDate>Fri, 10 May 2024 10:19:55 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Why Lease a Domain Name? The Strategic Advantages of Leasing a Domain Name: A Comparison with Buying</title>
@@ -241,11 +241,10 @@
     
       <item>
         <title>Loot boxes!</title>
-        <description>&lt;h1 id=&quot;loot-boxes&quot;&gt;Loot Boxes&lt;/h1&gt;
+        <description>&lt;p&gt;Video games sell loot boxes. People really love them! (not really). The video game industry has turned video games into continuous money making machines by selling credits that can be used to buy loot boxes, and then ultimately turning them into lottery like devices to obtain addons, skins, weapons and such for additional game play options.&lt;/p&gt;
 
-&lt;p&gt;Video games sell loot boxes. People really love them! (not really). The video game industry has turned video games into continuous money making machines by selling credits that can be used to buy loot boxes, and then ultimately turning them into lottery like devices to obtain addons, skins, weapons and such for additional game play options.&lt;/p&gt;
-
-&lt;h1 id=&quot;examples-of-loot-boxes&quot;&gt;Examples of Loot Boxes&lt;/h1&gt;
+&lt;h2 id=&quot;examples-of-loot-boxes&quot;&gt;Examples of Loot Boxes&lt;/h2&gt;
+&lt;p&gt;Stuff and things!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Feb 2021 09:56:44 -0600</pubDate>
         <link>http://localhost:4000/loot-boxes/</link>
