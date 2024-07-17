@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://localhost:4000/about",
-    "title": "About JekyllExample.com",
-    "body": " JekyllExample. com is a sample blog template from Chris Hammond With the open source repository available on GitHub, you can easily fork the repository and create your own blog/website using GitHub Pages for hosting. Learn how to use JekyllExample "
+    "title": "About BoxOfStuff.com",
+    "body": "Are you interested in this domain? Reach out to Chris Hammond "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
